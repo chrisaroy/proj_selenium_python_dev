@@ -1,0 +1,5 @@
+# Defining frames within the Selenium Practice Site
+
+from aut_selenium_framework.demo_site_page.contact_us_frame import ContactUsFrame as contact_us_frame
+from aut_selenium_framework.demo_site_page.field_set_frame import FieldSetFrame as field_set_frame
+from aut_selenium_framework.demo_site_page.practice_control_frame import PracticeControlFrame as practice_control_frame

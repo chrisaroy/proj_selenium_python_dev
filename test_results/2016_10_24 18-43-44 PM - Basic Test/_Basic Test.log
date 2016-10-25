@@ -1,0 +1,77 @@
+10/24/2016 06:43:44 PM -  * Start Test: Basic Test
+10/24/2016 06:44:47 PM -  
+10/24/2016 06:44:47 PM -  Start Test Step: 1 - Test the field set frame
+10/24/2016 06:44:48 PM -  Take image and store to: ../../test_results/2016_10_24 18-43-44 PM - Basic Test/2016_10_24 18-44-47 PM - field_set_frame.png
+10/24/2016 06:44:51 PM -  Sleep for 3 seconds.
+10/24/2016 06:44:51 PM -  Clear text in Text area - Text area
+10/24/2016 06:44:56 PM -  Enter: Line 1Text area - Text area
+10/24/2016 06:44:57 PM -  Entered text: Line 1
+10/24/2016 06:44:57 PM -  Select the return key in Text area - Text area
+10/24/2016 06:44:58 PM -  Enter: Line 2Text area - Text area
+10/24/2016 06:44:59 PM -  Entered text: Line 2
+10/24/2016 06:44:59 PM -  Enter: 20 Mile MarchTextbox - Textbox
+10/24/2016 06:44:59 PM -  Clear text in Textbox - Textbox
+10/24/2016 06:45:00 PM -  Entered text: 20 Mile March
+10/24/2016 06:45:00 PM -  Get text from Textbox - Textbox
+10/24/2016 06:45:01 PM -  Text in Textbox - Textbox is: 20 Mile March
+10/24/2016 06:45:02 PM -  Take image and store to: ../../test_results/2016_10_24 18-43-44 PM - Basic Test/2016_10_24 18-45-01 PM - screen_capture_1_verify .png
+10/24/2016 06:45:02 PM -  VERIFY: Check text in textbox
+10/24/2016 06:45:02 PM -    Result: FAIL
+10/24/2016 06:45:02 PM -    actual: 20 Mile March
+10/24/2016 06:45:02 PM -    expected: Mile
+10/24/2016 06:45:02 PM -    Requirements: req-123
+10/24/2016 06:45:02 PM -    Verification screen capture: screen_capture_1_verify 
+10/24/2016 06:45:04 PM -  Determine if the Option 1 Checkbox is checked.
+10/24/2016 06:45:05 PM -  Checked state of: Option 1 Checkbox is: False
+10/24/2016 06:45:06 PM -  Take image and store to: ../../test_results/2016_10_24 18-43-44 PM - Basic Test/2016_10_24 18-45-05 PM - screen_capture_2_verify .png
+10/24/2016 06:45:06 PM -  VERIFY: Check option 1 checked
+10/24/2016 06:45:06 PM -    Result: PASS
+10/24/2016 06:45:06 PM -    actual: False
+10/24/2016 06:45:06 PM -    expected: False
+10/24/2016 06:45:06 PM -    Verification screen capture: screen_capture_2_verify 
+10/24/2016 06:45:08 PM -  Select/click the Option 3 Checkbox
+10/24/2016 06:45:10 PM -  Select/click the Option 2 Radio Button
+10/24/2016 06:45:11 PM -  Determine if the Option 2 Radio Button is selected.
+10/24/2016 06:45:12 PM -  Selected state of: Option 2 Radio Button is: True
+10/24/2016 06:45:13 PM -  Take image and store to: ../../test_results/2016_10_24 18-43-44 PM - Basic Test/2016_10_24 18-45-12 PM - screen_capture_3_verify .png
+10/24/2016 06:45:13 PM -  VERIFY: Option 2 radio button selected
+10/24/2016 06:45:13 PM -    Result: PASS
+10/24/2016 06:45:13 PM -    actual: True
+10/24/2016 06:45:13 PM -    expected: True
+10/24/2016 06:45:13 PM -    Verification screen capture: screen_capture_3_verify 
+10/24/2016 06:45:15 PM -  Select Select Combobox by text: Option 2
+10/24/2016 06:45:16 PM -  Select Select Combobox by value: Option 1
+10/24/2016 06:45:17 PM -  Select Select Combobox by index: 3
+10/24/2016 06:45:18 PM -  Get selected item from: Select Combobox
+10/24/2016 06:45:19 PM -  Selected item from Select Combobox is 'Option 3'
+10/24/2016 06:45:19 PM -  Take image and store to: ../../test_results/2016_10_24 18-43-44 PM - Basic Test/2016_10_24 18-45-19 PM - screen_capture_4_verify .png
+10/24/2016 06:45:19 PM -  VERIFY: Check selected item.
+10/24/2016 06:45:19 PM -    Result: PASS
+10/24/2016 06:45:19 PM -    actual: Option 3
+10/24/2016 06:45:19 PM -    expected: Option 3
+10/24/2016 06:45:19 PM -    Verification screen capture: screen_capture_4_verify 
+10/24/2016 06:45:21 PM -  Get selected item from: Select Combobox
+10/24/2016 06:45:22 PM -  There are 3 items in Select Combobox
+10/24/2016 06:45:22 PM -  Items in Select Combobox combobox: 
+10/24/2016 06:45:22 PM -      Option 1
+10/24/2016 06:45:22 PM -      Option 2
+10/24/2016 06:45:22 PM -      Option 3
+10/24/2016 06:45:22 PM -  Items in combobox are: Option 1, Option 2, Option 3
+10/24/2016 06:45:22 PM -  wait here.
+10/24/2016 06:45:22 PM -  
+10/24/2016 06:45:22 PM -  Start Test Step: 2 - Test the practice control frame
+10/24/2016 06:45:23 PM -  Take image and store to: ../../test_results/2016_10_24 18-43-44 PM - Basic Test/2016_10_24 18-45-22 PM - practice_control_frame.png
+10/24/2016 06:45:23 PM -  Select/click: Change Color Button
+10/24/2016 06:45:26 PM -  
+10/24/2016 06:45:26 PM -  * End Test: Basic Test
+10/24/2016 06:45:26 PM -  
+10/24/2016 06:45:26 PM -  
+10/24/2016 06:45:26 PM -  TEST SUMMARY:
+10/24/2016 06:45:26 PM -    Test Name: Basic Test
+10/24/2016 06:45:26 PM -    Test Steps: 2
+10/24/2016 06:45:26 PM -    Verification:
+10/24/2016 06:45:26 PM -      Passed: 3
+10/24/2016 06:45:26 PM -      Failed: 1
+10/24/2016 06:45:26 PM -      Total: 4
+10/24/2016 06:45:26 PM -  
+10/24/2016 06:45:26 PM -  Test log location ../../test_results/2016_10_24 18-43-44 PM - Basic Test/
